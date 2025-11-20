@@ -1,0 +1,26 @@
+{
+  "name": "pad-right",
+  "version": "1.0.0",
+  "description": "Pads text by a given number of spaces to the right",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "pad",
+    "padding",
+    "string",
+    "text",
+    "right"
+  ],
+  "author": "",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/croy-aderant/pad-right.git"
+  },
+  "devDependencies": {
+    "mocha": "^10.0.0",
+    "chai": "^4.3.0"
+  }
+}
